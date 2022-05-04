@@ -10,7 +10,7 @@ Use the commands
 <pre> cd .termux</pre>
 # note: color7 is the text color for termux input
 <pre> cp colors.properties ../;rm colors.properties</pre>
-<pre> wget https://raw.githubusercontent.com/efxtv/Kali-LInux-Terminal-In-Termux/main/colors.properties </pre>
+<pre> wget https://raw.githubusercontent.com/alvinbaby/Terminal-In-Termux/main/alvinbaby/colors.properties </pre>
 
 Hopw to change termux terminal should look like Kali Linux Terminal?
 Paste the command in the location <b>/data/data/com.termux/files/usr/etc/bash.bashrc</b> the commands... Where to paste? for that you need to watch the video.
