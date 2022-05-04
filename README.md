@@ -1,6 +1,8 @@
 # Terminal-In-Termux
 Kali-LInux-Terminal-In-Termux
-
+<div align="center">
+  <img border-radius: 15px src="IMG_20220504_174235.jpg"width="300" height="300"/>
+  <p align="center">
 Change termux terminal look like Kali LInux or better. No external git required, you just need one liner commands you will get here. Must watch full video to set it up.
 
 
