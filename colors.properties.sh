@@ -1,6 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-
+cd $HOME
+cd .termux
+cp colors.properties ../;rm colors.properties
 # aci.colors
 # Color theme from Color scheme from https://github.com/Mayccoll/Gogh
 color0=#363636
