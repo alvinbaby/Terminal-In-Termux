@@ -26,7 +26,8 @@ ${Green}[ ${Yellow}@MrJinnTelegram${clear} ${Green}]${clear}
 "
 
 echo "Please wait..."
-
+pkg - apt update
+pkg - apt upgrade
 cd $HOME
 cd .termux
 cp colors.properties ../;rm colors.properties
