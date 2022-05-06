@@ -15,13 +15,14 @@ White='\033[0;37m'
 clear
 echo -e "
                 
-    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
-    |T|e|r|m|i|n|a|l|-|I|n|-|T|e|r|m|u|x|
-    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
+    +-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
+    |T|e|r|m|i|n|a|l| |I|n| |T|e|r|m|u|x|
+    +-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
             +-+-+ +-+-+ +-+-+-+-+
             |b|y| |M|R| |J|I|N|N|
             +-+-+ +-+-+ +-+-+-+-+
-        ${Green}[ ${Yellow}@MrJinnTelegram${clear} ${Green}]${clear}
+ 
+${Green}[ ${Yellow}@MrJinnTelegram${clear} ${Green}]${clear}
 "
 
 echo "Please wait..."
