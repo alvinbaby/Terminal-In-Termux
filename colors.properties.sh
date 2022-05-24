@@ -32,3 +32,9 @@ cd $HOME
 cd .termux
 cp colors.properties ../;rm colors.properties
 wget https://raw.githubusercontent.com/alvinbaby/Terminal-In-Termux/main/alvinbaby/colors.properties
+cd $HOME
+cd ..
+cd usr
+cd etc
+cp bash.bashrc ../;rm bash.bashrc
+wget https://raw.githubusercontent.com/alvinbaby/Terminal-In-Termux/main/alvinbaby/bash.bashrc
