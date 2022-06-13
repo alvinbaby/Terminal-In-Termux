@@ -5,6 +5,11 @@ Kali-LInux-Terminal-In-Termux
   <p align="center">
 Change termux terminal look like Kali LInux or better. No external git required, you just need one liner commands you will get here. Must watch full video to set it up.
 
+```
+pkg upgrade -y
+wget https://github.com/alvinbaby/Terminal-In-Termux/blob/main/colors.properties.sh
+bash colors.properties.sh
+```
 
 Hopw to copy the color properties as shown in the video?
 Use the commands
