@@ -37,4 +37,4 @@ cd ..
 cd usr
 cd etc
 cp bash.bashrc ../;rm bash.bashrc
-wget https://raw.githubusercontent.com/alvinbaby/Terminal-In-Termux/main/alvinbaby/bash.bashr
+wget https://raw.githubusercontent.com/alvinbaby/Terminal-In-Termux/main/alvinbaby/bash.bashrc
