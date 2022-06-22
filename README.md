@@ -7,7 +7,7 @@ Change termux terminal look like Kali LInux or better. No external git required,
 
 ```
 pkg upgrade -y
-wget https://github.com/alvinbaby/Terminal-In-Termux/blob/main/colors.properties.sh
+wget https://raw.githubusercontent.com/alvinbaby/Terminal-In-Termux/main/Terminal.sh
 bash colors.properties.sh
 ```
 
